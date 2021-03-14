@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/HomeView/HomeView.module.css"],"names":[],"mappings":"AAAA,yBACE,aAAc,CACd,YAAkB,CAClB,iBACF,CAEA,sBACE,UACF","file":"4.80ef29e8.chunk.css","sourcesContent":[".content {\r\n  margin: 0 auto;\r\n  padding: 50px 50px;\r\n  text-align: center;\r\n}\r\n\r\n.text {\r\n  color: black;\r\n}\r\n"]}
